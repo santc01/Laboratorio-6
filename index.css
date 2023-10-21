@@ -1,0 +1,24 @@
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    margin-right: 20px;
+}
+
+
+.main-content {
+    text-align: center;
+    margin: 20px;
+}
+
+img {
+    width: 300px;
+}
+
+h1 {
+    font-size: 100px;
+}
